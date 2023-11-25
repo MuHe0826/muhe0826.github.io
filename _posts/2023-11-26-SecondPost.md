@@ -1,6 +1,2 @@
----
-layout: post
-title: Blogging Like a Hacker
----
 
 **搭建博客的第二天就遇到了困难，添加在_posts文件夹下的博客文件并不能在主页显示**
